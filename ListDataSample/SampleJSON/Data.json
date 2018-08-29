@@ -1,0 +1,44 @@
+{
+"data": [
+       {
+       "manufacturer": "Porsche",
+       "model": "911",
+       "price": "$135000",
+       "wiki": "The BMW M3 is a high-performance version of the 3 Series, developed by BMW's in-house motorsport division, BMW M GmbH. M3 models have been derived from the subsequent generations of the BMW 3 Series.",
+       "img_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/2018_BMW_M3_3.0.jpg",
+         "img" : "911_car"
+       },
+       {
+       "manufacturer": "Nissan",
+       "model": "GT-R",
+       "price": "$80000",
+       "wiki":"The Nissan GT-R is a 2-door 2+2 high performance vehicle produced by Nissan, unveiled in 2007.[2][3][4] It is the successor to the Nissan Skyline GT-R, although no longer part of the Skyline range itself, the name having been given over to the R35 Series and having since left its racing roots. ",
+       "img_url": "https://cdn.shopify.com/s/files/1/1063/6350/products/gtr_front_profile_900x.jpg?v=1502861023",
+         "img" : "gtr_car"
+       },
+       {
+       "manufacturer": "BMW",
+       "model": "M3",
+       "price": "$60500",
+       "wiki":"The BMW M3 is a high-performance version of the 3 Series, developed by BMW's in-house motorsport division, BMW M GmbH. M3 models have been derived from the subsequent generations of the BMW 3 Series. ",
+       "img_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/BMW_M3_E30_front_20090514.jpg",
+         "img" : "m3_car"
+       },
+       {
+       "manufacturer": "Audi",
+       "model": "S5",
+       "price": "$53000",
+       "wiki":"The Audi S5 is the high-performance variant of Audi's A5. It is also the coupé, cabriolet, and five-door fastback versions of the fourth-generation (B8) Audi S4 saloon and estate models. ",
+       "img_url": "https://upload.wikimedia.org/wikipedia/commons/7/7d/2018_Audi_S5_TFSi_Quattro_Automatic_3.0_Front.jpg",
+         "img" : "s5_car"
+       },
+       {
+       "manufacturer": "Audi",
+       "model": "TT",
+       "price": "$40000",
+       "wiki":"The Audi TT is a 2-door compact sports car marketed by Volkswagen Group subsidiary Audi since 1998. It is assembled by the Audi subsidiary Audi Hungaria Motor Kft. in Győr, Hungary, using bodyshells manufactured and painted at Audi's Ingolstadt plant for the first two generations[2] and parts made entirely by the Hungarian factory for the third generation.",
+       "img_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Audi_TT_Coup%C3%A9_2.0_TFSI_quattro_S-line_%288S%29_%E2%80%93_Frontansicht%2C_3._April_2015%2C_D%C3%BCsseldorf.jpg",
+         "img" : "tt_car"
+       }
+    ]
+}
